@@ -1,1 +1,1 @@
-# Web-Design-Course
+# Web Design Course
